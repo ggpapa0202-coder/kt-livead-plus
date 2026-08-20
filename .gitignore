@@ -50,3 +50,6 @@ next-env.d.ts
 # 로컬 AI 개발 도구 내부 상태 (세션 기록 등, 저장소에 올릴 필요 없음)
 /.bkit/
 /.claude/
+
+.vercel
+.env*
